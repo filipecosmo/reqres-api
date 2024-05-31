@@ -1,0 +1,24 @@
+{
+  "createUser": {
+    "name": "morpheus",
+    "job": "leader"
+  },
+  "updateUser": {
+    "name": "morpheus",
+    "job": "zion resident"
+  },
+  "registerUser": {
+    "email": "eve.holt@reqres.in",
+    "password": "pistol"
+  },
+  "loginUser": {
+    "email": "eve.holt@reqres.in",
+    "password": "cityslicka"
+  },
+  "registerUserFail": {
+    "email": "sydney@fife"
+  },
+  "loginUserFail": {
+    "email": "peter@klaven"
+  }
+}
